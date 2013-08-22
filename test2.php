@@ -7,6 +7,3 @@
  * To change this template use File | Settings | File Templates.
  */
 echo 'test222';
-
-
-echo 'result2';
