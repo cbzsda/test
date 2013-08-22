@@ -6,9 +6,3 @@
  * Time: 20:01
  * To change this template use File | Settings | File Templates.
  */
-echo 'test222';
-
-
-echo 'result22 0000';
-
-echo 'new';echo 'result22 0000 ----';
