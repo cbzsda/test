@@ -7,4 +7,4 @@
  * To change this template use File | Settings | File Templates.
 
  */
-echo 'new files';
+echo 'new file1s';
