@@ -6,4 +6,4 @@
  * Time: 19:23
  * To change this template use File | Settings | File Templates.
  */
-echo 'master';
+echo 'master1';
