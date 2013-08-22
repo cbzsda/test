@@ -9,4 +9,4 @@
 echo 'test222';
 
 
-echo 'result22';
+echo 'result22 0000';
