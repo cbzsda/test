@@ -10,3 +10,4 @@ echo 'master1';
 echo 'develop';
 
 echo 'commit1';
+echo 'commit2';
