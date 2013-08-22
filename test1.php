@@ -11,3 +11,4 @@ echo 'develop';
 
 echo 'commit1';
 echo 'commit2';
+echo 'commit3';
